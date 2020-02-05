@@ -21,5 +21,5 @@
 파이썬에서는 `and` 및 `or` 연산의 반환값이 `True` / `False`로 한정되지 않습니다. 마지막에 평가된 피연산자를 반환하게 되어있는데, 이 부분을 유용하게 활용할 수 있습니다.
 
 ### 참고
-- [파이썬 튜토리얼 > 자료구조 > 조건 더보기] (https://docs.python.org/ko/3/tutorial/datastructures.html?highlight=short%20circuit#more-on-conditions)
-- [파이썬 언어 레퍼런스 > 표현식 > 논리 연산] (https://docs.python.org/ko/3/reference/expressions.html#boolean-operations)
+- [파이썬 튜토리얼 > 자료구조 > 조건 더보기](https://docs.python.org/ko/3/tutorial/datastructures.html?highlight=short%20circuit#more-on-conditions)
+- [파이썬 언어 레퍼런스 > 표현식 > 논리 연산](https://docs.python.org/ko/3/reference/expressions.html#boolean-operations)
